@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aziz
 - 👀 I’m interested in web development  
-- 🌱 I’m currently learning Wordpress custom theme development 
+- 🌱 I’m currently working on MERN Stack development
 - 💞️ I’m looking to collaborate on Front end projects React, Next etc.
 - 📫 reach me at : azizisoffline@gmail.com
 
