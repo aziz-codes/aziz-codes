@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aziz
+- 👋 Hi, I’m @aziz
 - 👀 I’m interested in web development  
 - 🌱 I’m currently working on MERN Stack development
 - 💞️ I’m looking to collaborate on Front end projects React, Next etc.
