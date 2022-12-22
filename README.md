@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aziz
-- 👀 I’m interested in web development  
+- 👀 I am a Frontend Developer 
 - 🌱 I’m currently working on MERN Stack development
 - 💞️ I’m looking to collaborate on Front end projects React, Next etc.
 - 📫 reach me at : azizisoffline@gmail.com
