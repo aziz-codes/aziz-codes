@@ -2,7 +2,6 @@
 - 👀 I am a Frontend Developer 
 - 🌱 I’m currently working on MERN Stack development
 - 💞️ I’m looking to collaborate on Front end projects.
-- 📫 reach me at : azizisoffline@gmail.com
 
 <!---
 aziz-codes/aziz-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
