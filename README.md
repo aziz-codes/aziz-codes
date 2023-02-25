@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aziz
-- 👀 I am a Frontend Developer 
+- 👀 I am a Frontend Web Developer 
 - 🌱 I’m currently working on MERN Stack development
 - 💞️ I’m looking to collaborate on Front end projects.
 
