@@ -1,7 +1,5 @@
 ### Hi there 👋, Aziz
 #### Full stack web developer
-![Full stack web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I am full stack web developer, I can build user friendly and responsive website using React JS with Tailwindcss & MUI.
 I can build website on WordPress and PHP with MYSQL database.
 
