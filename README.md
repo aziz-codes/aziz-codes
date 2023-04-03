@@ -10,3 +10,7 @@ Skills: REACT / JS / HTML / Tailwindcss / MUI
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aziz-codes)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aziz-codes&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=aziz-codes)  
+
