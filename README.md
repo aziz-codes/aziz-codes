@@ -2,13 +2,11 @@
 #### Full stack web developer
 ![Full stack web developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I am a full stack web developer, I specialize in working with React.js, Tailwind CSS, and Material UI to create responsive, user-friendly web applications.
-I also have experience building websites using WordPress, and I love the flexibility and power that it offers.
-In addition to my frontend skills, I'm also proficient in building dynamic websites using core PHP and MySQL. I enjoy working on complex backend systems and solving challenging problems.
+I am full stack web developer, I can build user friendly and responsive website using React JS with Tailwindcss & MUI.
+I can build website on WordPress and PHP with MYSQL database.
 
 Skills: REACT / JS / HTML / Tailwindcss / MUI
 
-- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aziz-codes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/azizcodes/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/azizcodes/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/aziz_codes)  
