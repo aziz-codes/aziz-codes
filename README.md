@@ -8,7 +8,4 @@
 </div>
 <br/>
 <br />
-<a href="https://github.com/aziz-codes/github-profile-trophy"></a>
-<a href="https://github.com/aziz-codes/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=aziz-codes&column=8&theme=gruvbox&no-frame=true"/>
-</a>
+
